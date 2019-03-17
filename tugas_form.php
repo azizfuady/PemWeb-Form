@@ -36,7 +36,6 @@
             </div>
 
             <label class="checkbox-inline"><input type="checkbox" required="required"> Saya bersedia menerima <a href="#">Ketentuan layanan</a> &amp; <a href="#">Kebijakan Privasi</a></label>
-            <span id="error_checkbox"></span>
             <br>
             <button type="button" class="btn btn-primary btn-block" onclick="kirim()">Buat Akun</button>
 
